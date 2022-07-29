@@ -5,4 +5,4 @@ note to all developers:
 
 do not mess with hosting folder🔫
 
-link: https://goofyahhmachine.vercel.app
+link: https://goofy-ahh-machine.vercel.app
