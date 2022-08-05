@@ -1,5 +1,5 @@
 # goofy-ahh-machine
-~~quandale machine~~ ~~warp machine~~ goofy ahh machine is a remake of Cell Machine but made in Scratch.
+~~quandale machine~~ Warp/Turbo Machine is a remake of Cell Machine but made in Scratch. (note: still think it should be warp machine though)
 
 note to all developers:
 
@@ -18,4 +18,4 @@ and your done!
 
 link: https://goofy-ahh-machine.vercel.app
 
-version: 1.3.1
+version: 1.4
